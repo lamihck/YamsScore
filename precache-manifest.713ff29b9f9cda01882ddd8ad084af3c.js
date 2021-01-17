@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b52801ef302eaa5c105351074d6b58d",
+    "revision": "d8f6f9de6e6a5f69d954f99ad647db1b",
     "url": "/yamsscore/index.html"
   },
   {
