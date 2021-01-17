@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yamsscore/precache-manifest.713ff29b9f9cda01882ddd8ad084af3c.js"
+  "/yamsscore/precache-manifest.831c99cd1836dd19705724e11907285d.js"
 );
 
 self.addEventListener('message', (event) => {
