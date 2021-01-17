@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6cde9e1ecbb7f8676109444bc94be9e0",
+    "revision": "a5ec25cb527720c900ad9ba9a2e3796f",
     "url": "/yamsscore/index.html"
   },
   {
-    "revision": "753ee3173f8c171217b4",
+    "revision": "3433d083050c760ac17d",
     "url": "/yamsscore/static/css/2.94f97a84.chunk.css"
   },
   {
-    "revision": "9fdffe7a11ce38cc1f12",
+    "revision": "eb24b4a10b001e77cada",
     "url": "/yamsscore/static/css/main.5c5a9b42.chunk.css"
   },
   {
-    "revision": "753ee3173f8c171217b4",
-    "url": "/yamsscore/static/js/2.6213eb42.chunk.js"
+    "revision": "3433d083050c760ac17d",
+    "url": "/yamsscore/static/js/2.7e63acd5.chunk.js"
   },
   {
     "revision": "9ad41cdf6f5d65b47d6b2f22f7050a6f",
-    "url": "/yamsscore/static/js/2.6213eb42.chunk.js.LICENSE.txt"
+    "url": "/yamsscore/static/js/2.7e63acd5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9fdffe7a11ce38cc1f12",
-    "url": "/yamsscore/static/js/main.db3536ba.chunk.js"
+    "revision": "eb24b4a10b001e77cada",
+    "url": "/yamsscore/static/js/main.7189e42e.chunk.js"
   },
   {
     "revision": "441f57309f4c786f2b51",

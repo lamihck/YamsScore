@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/yamsscore/static/css/main.5c5a9b42.chunk.css",
-    "main.js": "/yamsscore/static/js/main.db3536ba.chunk.js",
-    "main.js.map": "/yamsscore/static/js/main.db3536ba.chunk.js.map",
+    "main.js": "/yamsscore/static/js/main.7189e42e.chunk.js",
+    "main.js.map": "/yamsscore/static/js/main.7189e42e.chunk.js.map",
     "runtime-main.js": "/yamsscore/static/js/runtime-main.5d04bdd4.js",
     "runtime-main.js.map": "/yamsscore/static/js/runtime-main.5d04bdd4.js.map",
     "static/css/2.94f97a84.chunk.css": "/yamsscore/static/css/2.94f97a84.chunk.css",
-    "static/js/2.6213eb42.chunk.js": "/yamsscore/static/js/2.6213eb42.chunk.js",
-    "static/js/2.6213eb42.chunk.js.map": "/yamsscore/static/js/2.6213eb42.chunk.js.map",
+    "static/js/2.7e63acd5.chunk.js": "/yamsscore/static/js/2.7e63acd5.chunk.js",
+    "static/js/2.7e63acd5.chunk.js.map": "/yamsscore/static/js/2.7e63acd5.chunk.js.map",
     "index.html": "/yamsscore/index.html",
-    "precache-manifest.0b4c865abf82a46e40c967843c3d49a7.js": "/yamsscore/precache-manifest.0b4c865abf82a46e40c967843c3d49a7.js",
+    "precache-manifest.c110033d83af939ee6cad8bfddc18510.js": "/yamsscore/precache-manifest.c110033d83af939ee6cad8bfddc18510.js",
     "service-worker.js": "/yamsscore/service-worker.js",
     "static/css/2.94f97a84.chunk.css.map": "/yamsscore/static/css/2.94f97a84.chunk.css.map",
     "static/css/main.5c5a9b42.chunk.css.map": "/yamsscore/static/css/main.5c5a9b42.chunk.css.map",
-    "static/js/2.6213eb42.chunk.js.LICENSE.txt": "/yamsscore/static/js/2.6213eb42.chunk.js.LICENSE.txt"
+    "static/js/2.7e63acd5.chunk.js.LICENSE.txt": "/yamsscore/static/js/2.7e63acd5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5d04bdd4.js",
     "static/css/2.94f97a84.chunk.css",
-    "static/js/2.6213eb42.chunk.js",
+    "static/js/2.7e63acd5.chunk.js",
     "static/css/main.5c5a9b42.chunk.css",
-    "static/js/main.db3536ba.chunk.js"
+    "static/js/main.7189e42e.chunk.js"
   ]
 }
