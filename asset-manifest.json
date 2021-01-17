@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/yams/static/css/main.f45b9519.chunk.css",
+    "main.js": "/yams/static/js/main.92b3c52f.chunk.js",
+    "main.js.map": "/yams/static/js/main.92b3c52f.chunk.js.map",
+    "runtime-main.js": "/yams/static/js/runtime-main.0a325013.js",
+    "runtime-main.js.map": "/yams/static/js/runtime-main.0a325013.js.map",
+    "static/css/2.94f97a84.chunk.css": "/yams/static/css/2.94f97a84.chunk.css",
+    "static/js/2.1ad531f9.chunk.js": "/yams/static/js/2.1ad531f9.chunk.js",
+    "static/js/2.1ad531f9.chunk.js.map": "/yams/static/js/2.1ad531f9.chunk.js.map",
+    "index.html": "/yams/index.html",
+    "precache-manifest.7ad4ca16a67bad2811fe100979610e10.js": "/yams/precache-manifest.7ad4ca16a67bad2811fe100979610e10.js",
+    "service-worker.js": "/yams/service-worker.js",
+    "static/css/2.94f97a84.chunk.css.map": "/yams/static/css/2.94f97a84.chunk.css.map",
+    "static/css/main.f45b9519.chunk.css.map": "/yams/static/css/main.f45b9519.chunk.css.map",
+    "static/js/2.1ad531f9.chunk.js.LICENSE.txt": "/yams/static/js/2.1ad531f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a325013.js",
+    "static/css/2.94f97a84.chunk.css",
+    "static/js/2.1ad531f9.chunk.js",
+    "static/css/main.f45b9519.chunk.css",
+    "static/js/main.92b3c52f.chunk.js"
+  ]
+}
