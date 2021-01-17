@@ -7,7 +7,7 @@ export default function FirstCol(props) {
   return (
       <Fill onClick={props.onClick}>
         <Left size="40px" className="addColumn" centerContent={CenterType.HorizontalVertical}>
-            <span>+</span>
+            <span style={{fontFamily: "arial"}}>+</span>
             <div/>
         </Left>
         <Fill></Fill>

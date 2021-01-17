@@ -8,13 +8,19 @@ import FirstCol from "./FirstCol";
 import LastCol from "./LastCol";
 
 export default function App() {
-  let [players, setPlayers] = useState(2);
+  let [players, setPlayers] = useState(Array(2).fill({name: "", score: 0}));
   return (
     <div className="App">
-      <ViewPort>
+      <ViewPort className="papers">
         <FirstCol />
-        {[...Array(players)].map(() => <Col/>)}
-        <LastCol onClick={() => setPlayers(players+1)}/>
+        {players.map((n, i) => (
+          <Col key={i}
+            setScore={score => setPlayers(players.map((p, pi) => pi === i ? {...p, score: score} : p))} 
+            setName={name => setPlayers(players.map((p, pi) => pi === i ? {...p, name: name} : p))}
+            isWinner={players[i].score === Math.max(...players.map(p => p.score))}
+          />
+        ))}
+        <LastCol onClick={() => setPlayers([...players, {name: "", score: 0}])}/>
       </ViewPort>
     </div>
   );
